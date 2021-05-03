@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5ec28bf1f98c9c740814139d7f867ac6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marydale
+  fontNames:
+  - Marydale
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6336e71145a0a1147a95eb7ea0c56da5, type: 3}
+  - {fileID: 12800000, guid: 48ec66e751214824cb46f76d3deebe66, type: 3}
+  - {fileID: 12800000, guid: 7d9401e83c33bad4e89f13980bba44c7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
